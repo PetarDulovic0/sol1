@@ -1,7 +1,8 @@
 {
-  "name": "sol1",
-  "version": "0.1.0",
-  "private": true,
+  "name": "solution1",
+  "version": "1.0.2",
+  "private": false,
+  "main": "src/index.tsx",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
