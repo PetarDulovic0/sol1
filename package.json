@@ -1,8 +1,8 @@
 {
   "name": "solution1",
-  "version": "1.0.2",
+  "version": "1.0.11",
   "private": false,
-  "main": "src/index.tsx",
+  "main": ".next/server/pages/_app.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
